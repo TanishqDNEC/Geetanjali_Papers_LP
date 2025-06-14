@@ -11,7 +11,7 @@ import {
 } from 'react-router-dom';
 
 // importing components
-import About from './components/About/About.jsx';
+import About from './Components/About/About.jsx';
 import Contact from './Components/Contact/Contact.jsx';
 import Home from './Components/Home/Home.jsx';
 import Layout from './Layout.jsx';
