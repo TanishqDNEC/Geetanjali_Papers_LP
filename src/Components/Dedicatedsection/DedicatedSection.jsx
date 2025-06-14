@@ -4,20 +4,20 @@ const cards = [
     {
       title: "PREMIUM QUALITY",
       caption: "World class",
-      image: "src/images/PremiumQuality.png",
+      image: "https://imgs.search.brave.com/fYTi-pt4iwkG7eXinLG54UE_R2WBrNCMqTgYnvduHI4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wNTMv/MjI2LzAzOC9zbWFs/bC9wcmVtaXVtLXF1/YWxpdHktZ29sZGVu/LW1lZGFsLXF1YWxp/dHktYmFkZ2VzLXN0/b2NrLWlsbHVzdHJh/dGlvbi1wbmcucG5n",
       bg: "bg-[#0f172a]",
     },
     {
       title: "LOWEST PRICE",
       caption: "Guaranteed",
-      image: "src/images/Coin.png",
+      image: "https://png.pngtree.com/png-vector/20240917/ourmid/pngtree-stack-of-dollar-gold-coin-exchange-rate-with-falling-price-and-vector-png-image_13734014.png",
       bg: "bg-[#f97316]",
     },
     {
       title: "EXPRESS SERVICES",
       caption: "Always ontime",
-      image: "src/images/fast.png",
-      bg: "bg-[#393E46]", // updated lighter mint color
+      image: "https://imgs.search.brave.com/u8pqCYDr1x1iXoQQlUG6j6Av5AeVIByJ54yE0jYN4BE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTA2/OTg2NzUwOC92ZWN0/b3IvdmVjdG9yLWJh/Y2tncm91bmQtdGVj/aG5vbG9neS1pbi10/aGUtY29uY2VwdC1v/Zi1zcGVlZC5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9NURa/c3lkb18yMFAzWEU3/OURvd1VISHB2OXBY/T3dxenVDWF9JRml4/OFRMMD0",
+      bg: "bg-[#0a0f2c ]",
     },
   ];
   
