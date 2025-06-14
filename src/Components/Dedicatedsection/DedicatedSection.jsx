@@ -16,8 +16,8 @@ const cards = [
     {
       title: "EXPRESS SERVICES",
       caption: "Always ontime",
-      image: "https://imgs.search.brave.com/u8pqCYDr1x1iXoQQlUG6j6Av5AeVIByJ54yE0jYN4BE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTA2/OTg2NzUwOC92ZWN0/b3IvdmVjdG9yLWJh/Y2tncm91bmQtdGVj/aG5vbG9neS1pbi10/aGUtY29uY2VwdC1v/Zi1zcGVlZC5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9NURa/c3lkb18yMFAzWEU3/OURvd1VISHB2OXBY/T3dxenVDWF9JRml4/OFRMMD0",
-      bg: "bg-[#0a0f2c ]",
+      image: "https://imgs.search.brave.com/dFYXXt8JaGL2TJ70VFuKPbaD0VwHfX9eXsOm0gyLckA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvaGQvY2Fy/LXNwZWVkb21ldGVy/LWRpYWwtMDJlZXVj/ZXVnb2owZWU0MS5w/bmc",
+      bg: "bg-[#393E46 ]",
     },
   ];
   
