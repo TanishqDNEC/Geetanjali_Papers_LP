@@ -17,7 +17,7 @@ const cards = [
       title: "EXPRESS SERVICES",
       caption: "Always ontime",
       image: "https://imgs.search.brave.com/dFYXXt8JaGL2TJ70VFuKPbaD0VwHfX9eXsOm0gyLckA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvaGQvY2Fy/LXNwZWVkb21ldGVy/LWRpYWwtMDJlZXVj/ZXVnb2owZWU0MS5w/bmc",
-      bg: "bg-[#393E46 ]",
+      bg: "bg-[#393E46]",
     },
   ];
   
