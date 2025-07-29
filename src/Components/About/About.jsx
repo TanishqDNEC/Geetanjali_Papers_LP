@@ -27,7 +27,7 @@ export default function About() {
       <section className="mb-16">
         <h2 className="text-xl sm:text-2xl font-bold mb-4 text-slate-800">Clients</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
-          {["ABC Textiles", "Varuna Prints", "Shree Offset Works"].map((client, index) => (
+          {["Sheat college of engineering", "The Aryan International School", "Care Hospital"].map((client, index) => (
             <div
               key={index}
               className="bg-white shadow-md rounded-lg p-4 sm:p-6 border hover:shadow-xl transition"
@@ -45,7 +45,7 @@ export default function About() {
         <p className="text-gray-700 text-base sm:text-lg">
           📍 <strong>Varanasi, Uttar Pradesh</strong>
         </p>
-        <p className="text-gray-500 text-sm sm:text-base">123, Industrial Layout, Near Print Bazaar, Varanasi, UP - 221001</p>
+        <p className="text-gray-500 text-sm sm:text-base">Shop-6 chaudhary chambers ,Rathyatra Gurubagh road, Varanasi-221010</p>
       </section>
 
       {/* Quotes Section */}

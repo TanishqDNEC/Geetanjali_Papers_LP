@@ -14,7 +14,7 @@ export default function Home() {
             Welcome to Geetanjali Papers
           </h1>
           <p className="text-lg md:text-2xl mt-4 drop-shadow-md">
-            Your trusted partner for all printing solutions
+            One stop Solution to all your printing needs !
           </p>
         </section>
   
@@ -25,8 +25,8 @@ export default function Home() {
           </h2>
           <div className="grid md:grid-cols-3 gap-8 text-center">
             <div className="bg-slate-900 p-6 rounded-xl shadow hover:scale-105 transition">
-              <h3 className="text-xl font-bold mb-2">Die Cut Business Cards</h3>
-              <p className="text-gray-300">We are specialists in “Die Cut” visiting card printing, which makes us India’s No. 1 Die Cut Card Manufacturer.</p>
+              <h3 className="text-xl font-bold mb-2">Visiting Cards</h3>
+              <p className="text-gray-300">We are specialists in  "visiting card" printing (paper/plastic/UV/texture)</p>
             </div>
             <div className="bg-slate-900 p-6 rounded-xl shadow hover:scale-105 transition">
               <h3 className="text-xl font-bold mb-2">Premium Business Cards</h3>
@@ -34,31 +34,31 @@ export default function Home() {
             </div>
             <div className="bg-slate-900 p-6 rounded-xl shadow hover:scale-105 transition">
               <h3 className="text-xl font-bold mb-2">Leaflets & Posters</h3>
-              <p className="text-gray-300">We deliver premium quality pamphlet/poster, printed by Komori Machine on premium quality paper.</p>
+              <p className="text-gray-300">We deliver premium quality pamphlet/poster, on premium quality paper.</p>
                     </div>
                     <div className="bg-slate-900 p-6 rounded-xl shadow hover:scale-105 transition">
-              <h3 className="text-xl font-bold mb-2">Stickers</h3>
+              <h3 className="text-xl font-bold mb-2">ATM pouchs</h3>
               <p className="text-gray-300">The atm pouch is the best alternate of Visiting Card, Printers can order atm pouches in very minimum quantity of 1000.</p>
                     </div>
                     <div className="bg-slate-900 p-6 rounded-xl shadow hover:scale-105 transition">
-              <h3 className="text-xl font-bold mb-2">ATM Pouches</h3>
+              <h3 className="text-xl font-bold mb-2">Garment Tags</h3>
               <p className="text-gray-300">Minimum Order quantity as low as 2000 tags only. Various size and quality options are available with premium and fast printing in minimal costs.</p>
                     </div>
                     <div className="bg-slate-900 p-6 rounded-xl shadow hover:scale-105 transition">
-              <h3 className="text-xl font-bold mb-2">Garment Tags</h3>
+              <h3 className="text-xl font-bold mb-2">Hospital Files</h3>
               <p className="text-gray-300">Files used by Hospitals, Clinics and Doctors with various quality options are available.</p>
                     </div>
                     <div className="bg-slate-900 p-6 rounded-xl shadow hover:scale-105 transition">
-              <h3 className="text-xl font-bold mb-2">Doctor Files</h3>
-              <p className="text-gray-300">We deliver high end printing quality by latest “Xerox 3100 Digital Press”.</p>
+              <h3 className="text-xl font-bold mb-2">Digital 12 x 18 printing</h3>
+              <p className="text-gray-300">We deliver high end printing quality .</p>
                     </div>
                     <div className="bg-slate-900 p-6 rounded-xl shadow hover:scale-105 transition">
-              <h3 className="text-xl font-bold mb-2">Digital Paper Printing</h3>
-              <p className="text-gray-300">We use a grade super fine paper for letter head and envelopes. And provide superior printing quality by Komori Lithrone.</p>
+              <h3 className="text-xl font-bold mb-2">Stationery Printing</h3>
+              <p className="text-gray-300">We use a grade super fine paper for letter head and envelopes. And provide superior printing quality.</p>
                     </div>
                     <div className="bg-slate-900 p-6 rounded-xl shadow hover:scale-105 transition">
-              <h3 className="text-xl font-bold mb-2">Letter Head & Envelopes</h3>
-              <p className="text-gray-300">We reduce printing cost by club printing and offer premium quality invoice book in low cost.</p>
+              <h3 className="text-xl font-bold mb-2">Visual Aid/Medicine Folders</h3>
+              <p className="text-gray-300">We provide high quality visual aids both in bookforms and wiro binding.</p>
                     </div>
                     <div className="bg-slate-900 p-6 rounded-xl shadow hover:scale-105 transition">
               <h3 className="text-xl font-bold mb-2">Multicolored Invoice Book
@@ -66,11 +66,17 @@ export default function Home() {
               <p className="text-gray-300">Eye-catching packaging for every need.</p>
                     </div>
                     <div className="bg-slate-900 p-6 rounded-xl shadow hover:scale-105 transition">
-              <h3 className="text-xl font-bold mb-2">Printed Pen
+              <h3 className="text-xl font-bold mb-2">School catalogues and Brochure
               </h3>
-              <p className="text-gray-300">Wide range of printed pens starting from Rs.10 to Rs. 500 per piece. Both Laser Printing and Screen Printing options available</p>
+              <p className="text-gray-300">With design as our core strength, we are committed to delivering high-quality school brochures, prospectuses, fee cards, progress reports, calendars, diaries, and other customized stationery tailored to your needs.</p>
             </div>
+            <div className="bg-slate-900 p-6 rounded-xl shadow hover:scale-105 transition">
+              <h3 className="text-xl font-bold mb-2">Packing labels
+              </h3>
+              <p className="text-gray-300">Candy & confectionery packaging labels,Pharmaceutical and medical product labels,Custom labels for packaged food products</p>
+                    </div>
           </div>
+          
             </section>
             
         {/* Partnership Section */}

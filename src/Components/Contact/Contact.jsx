@@ -57,7 +57,7 @@ export default function Contact() {
             Reach out to Geetanjali Papers for high-quality and reliable printing services.
           </p>
           <ul className="text-gray-700 space-y-4">
-            <li><strong>📍 Address:</strong>Lakhrao Bazarbiha, Opposite VKM, SHhivra, Rathyatra-221002 , Varanasi, UP</li>
+            <li><strong>📍 Address:</strong>Shop-6 chaudhary chambers ,Rathyatra Gurubagh road, Varanasi-221010</li>
             <li><strong>📞 Phone:</strong> +91-9918077806</li>
             <li>
               <strong>📧 Email:</strong>{" "}
@@ -65,7 +65,7 @@ export default function Contact() {
                 href="mailto:geetanjalipapers@email.com"
                 className="text-blue-600 hover:underline"
               >
-                geetanjalipapers@email.com
+                gangwani.rajesh@gmail.com
               </a>
             </li>
             {/* <li>
